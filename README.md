@@ -3,4 +3,7 @@ Tutorial on data collection and the GitHub API for the iConference 2016 Workshop
 
 The Jupyter Notebook [index.ipynb](index.ipynb) has all the good stuff.
 
-TODO: Link up with [mybinder.org](mybinder.org)
+## Run the LIVE notebook
+
+* [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/mcburton/sociotech-workshop-2016)
+
